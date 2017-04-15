@@ -10,7 +10,7 @@ layout: feed
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://bstnel.github.io/blog</id>
 	<author>
-		<name>Hank Quinlan</name>
+		<name>Barrett Nelson</name>
 		<email>bstnel@gmail.com</email>
 	</author>
 
