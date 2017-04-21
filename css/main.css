@@ -9,7 +9,7 @@ nav ul, footer ul {
     text-align: center;
 }
 nav ul li, footer ul li {
-    display: inline;
+    display: block;
     font-size: 1em;
 }
 a {
