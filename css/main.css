@@ -1,6 +1,6 @@
 body {
-    width: 70%;
-    justify-content: center;
+    margin: 0;
+    text-align: center;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
