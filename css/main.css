@@ -30,12 +30,12 @@ p {
     line-height: 1.4em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #333;
-    padding-bottom 50px
+    padding-bottom 50px;
 }
 footer {
     font-size: 1em;
-    padding-top 50px
     justify-content: center;
+    padding:40px;
 }
 
 ul.posts { 
