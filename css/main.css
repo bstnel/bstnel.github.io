@@ -39,10 +39,8 @@ p {
 footer {
     font-size: 1em;
     text-align: center;
-    position: relative;
-    margin-top: -180px;
-    height: 180px;
-    clear: both;
+    position:fixed;
+    bottom:0;
     display: inline;
 }
 
