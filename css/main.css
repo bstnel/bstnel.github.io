@@ -34,6 +34,7 @@ p {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #333;
     display: block;
+    margin-bottom: 3em;
 }
 footer {
     font-size: 1em;
