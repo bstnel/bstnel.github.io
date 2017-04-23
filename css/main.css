@@ -35,6 +35,7 @@ p {
     color: #333;
     display: block;
     margin-bottom: 3em;
+    padding-bottom: 3em;
 }
 footer {
     font-size: 1em;
