@@ -1,6 +1,7 @@
 body {
     display: block;
     width: 60%;
+    text-align:center;
 }
 
 header,footer {
