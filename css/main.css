@@ -12,10 +12,6 @@ header,footer {
   width: 60%;
 }
 
-header {
-    height: 10%;
-}
-
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0;
@@ -51,7 +47,6 @@ p {
 footer {
     font-size: 1em;
     display: inline;
-    height: 10%
 }
 
 ul.posts { 
