@@ -1,5 +1,4 @@
 body {
-    text-align: center;
     display: block;
     margin: 60px auto;
     width: 70%;
@@ -35,7 +34,6 @@ p {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #333;
     padding-bottom 3em;
-    text-align: center;
     display: block;
 }
 footer {
