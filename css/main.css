@@ -2,6 +2,7 @@ body {
     display: block;
     margin: 60px auto;
     width: 60%;
+    text-align: center;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -14,7 +15,6 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     font-size: 1em;
-    text-align: center;
 }
 a {
     text-decoration: none;
@@ -26,7 +26,6 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    text-align: center;
     display: block;
 }
 p {
@@ -38,7 +37,6 @@ p {
 }
 footer {
     font-size: 1em;
-    text-align: center;
     display: inline;
     margin: 3em;
 }
