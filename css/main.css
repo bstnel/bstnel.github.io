@@ -15,7 +15,6 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     font-size: 1em;
-    padding: 3em;
 }
 a {
     text-decoration: none;
@@ -39,8 +38,6 @@ p {
 footer {
     font-size: 1em;
     display: inline;
-    margin-top: 3em;
-    padding-top: 3em;
 }
 
 ul.posts { 
