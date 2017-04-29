@@ -21,17 +21,21 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Open Sans', 'Helvetica-Neue', Helvetica, sans-serif;
 }
 h2 {
     font-size: 1.2em;
     font-family: 'Open Sans', 'Helvetica-Neue', Helvetica, sans-serif;
 }
+ul {
+    font-size: 1em;
+    font-family: 'Gentium Book Basic', 'Palatino', Georgia, serif;
+}
 p {
     font-size: 1em;
     line-height: 1.4em;
     color: #333;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: 'Gentium Book Basic', 'Palatino', Georgia, serif;
 }
 footer {
     border-top: none;
