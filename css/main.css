@@ -1,54 +1,71 @@
 body {
-    margin: 60px auto;
-    width: 70%;
-}
-nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
-}
-nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
-}
-a {
-    text-decoration: none;
-    color: #999;
-}
-a:hover {
-    text-decoration: underline;
-}
-h1 {
-    font-size: 3em;
-    font-family: 'Open Sans', 'Helvetica-Neue', Helvetica, sans-serif;
-}
-h2 {
-    font-size: 1.2em;
-    font-family: 'Open Sans', 'Helvetica-Neue', Helvetica, sans-serif;
-}
-ul {
-    font-size: 1em;
-    font-family: 'Gentium Book Basic', 'Palatino', Georgia, serif;
-    line-height: 1.4em;
-}
-p {
-    font-size: 1em;
-    line-height: 1.4em;
-    color: #333;
-    font-family: 'Gentium Book Basic', 'Palatino', Georgia, serif;
-}
-footer {
-    border-top: none;
-    margin-top: 40px auto;
-    font-size: 1em;
-}
+      margin: 0 auto;
+      color: #3a3a3a;
+      font-family: 'Gentium Book Basic', 'Palatino', Georgia, serif;
+      font-size: 16pt;
+      line-height: 160%;
+      font-weight: 400;
+      text-align: left;
+      background: #fafafa;
 
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
-}
+    }
+    h1, h2, h3{
+      font-family: 'Open Sans', 'Helvetica-Neue', Helvetica, sans-serif;
+      font-weight: 800;
+      text-transform: uppercase;
+    }
+    h1{
+      font-size: 1.6875em;
+    }
+    h2{
+      margin-bottom:-15px;
+      font-size: 1.25em;
+    }
+    h3{
+      font-size: 1em;
+    }
+    .content{
+      width: 60%;
+      padding: 0 20%;
+    }
+    a{
+      color: #CE3816;
+      text-decoration: none;
+    }
+    a:hover{
+      color: #3a3a3a;
+      text-decoration: none;
+    }
+    a i{
+      color: #3a3a3a;
+    }
+    a:hover i{
+      color: #CE3816;
+    }
+    .centerdiv{
+      margin: 0 auto;
+      width: 90%;
+      height: 100%;
+      min-height: 800px;
+      background: white;
+      box-shadow: 0 0 8px rgba(0, 0, 0, .1);
+    }
+    .header{
+      width: 100%;
+      height: 60px;
+      margin-top: 0;
+      padding-bottom: 26px;
+      color: black;
+      border-bottom: 1px solid #fafafa;
+      text-align: center;
+    }
+    .header  div{
+      float: left;
+    }
+    .edge{
+      width: 20%;
+    }
+    .center{
+      width: 60%;
+    }
 
-ul.posts li {
-    list-style: none;
-}
