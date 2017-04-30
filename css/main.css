@@ -7,6 +7,7 @@ body {
       font-weight: 400;
       text-align: left;
       background: #fafafa;
+      margin-bottom: 2em;
 
     }
     h1, h2, h3{
@@ -18,9 +19,6 @@ body {
       font-size: 1.7em;
     }
     h2{
-      font-size: 1em;
-    }
-    h3{
       font-size: 1em;
     }
     .content{
@@ -53,9 +51,9 @@ body {
     }
     .header{
       width: 100%;
-      height: 60px;
-      margin-top: 0;
-      padding-bottom: 26px;
+      height: 3.2em;
+      margin-top: 2em;
+      padding-bottom: 1em;
       color: black;
       border-bottom: 1px solid #fafafa;
       text-align: center;
@@ -69,4 +67,3 @@ body {
     .center{
       width: 60%;
     }
-
