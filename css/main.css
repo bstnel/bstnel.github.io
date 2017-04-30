@@ -31,10 +31,12 @@ body {
     a{
       color: #999999;
       text-decoration: none;
+      font-weight: 600;
     }
     a:hover{
       color: #3a3a3a;
       text-decoration: none;
+      font-weight: 600;
     }
     a i{
       color: #999999;
