@@ -69,3 +69,27 @@ body {
     .center{
       width: 60%;
     }
+.nav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+    top: 6em;
+    width: 100%;
+    position: absolute;
+}
+.nav li {
+    display:inline;
+}
+
+.nav li a {
+    display: inline-block;
+    color: #999999;
+    text-align: center;
+    padding: 2px 20px;
+    text-decoration: none;
+}
+nav.li a:hover {
+    background-color: #3a3a3a;
+}
