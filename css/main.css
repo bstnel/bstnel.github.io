@@ -90,6 +90,6 @@ body {
     padding: 2px 12px;
     text-decoration: none;
 }
-nav.li a:hover {
-    background-color: #3a3a3a;
+.nav li a:hover {
+    color: #3a3a3a;
 }
