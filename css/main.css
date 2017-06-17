@@ -2,7 +2,7 @@ body {
       margin: 0 auto;
       color: #3a3a3a;
       font-family: Georgia, serif;
-      font-size: 1.1em;
+      font-size: 1em;
       line-height: 180%;
       font-weight: 400;
       text-align: left;
@@ -10,24 +10,54 @@ body {
       margin-bottom: 0;
 
     }
-    h1, h2, h3{
+    h1, h2, h3, h4, h5 {
       font-family: Tahoma, Geneva, sans-serif;
-      font-weight: 800;
-      text-transform: uppercase;
     }
     h1{
       font-size: 2.1em;
       margin: 1.5em;
+      font-weight: 800;
+      text-transform: uppercase;
+      font-family: Tahoma, Geneva, sans-serif;
     }
     h2{
-      font-size: 1.3em;
+      font-size: 1.2em;
       margin-top: 1.55em;
+      font-weight: 800;
+      text-transform: uppercase;
+      font-family: Tahoma, Geneva, sans-serif;
     }
+    h3{
+      font-size: 1em;
+      font-weight: 800;
+      margin: 2em 0 0;
+      font-family: Georgia, serif;
+
+   ;
+    }
+    h4{
+      font-size: 1em;
+      font-weight: 400;
+      margin: 0 0 0;
+      font-family: Georgia, serif;
+      color: #ccc;
+    }
+    h5{
+      font-size: 1em;
+      font-weight: 400;
+      margin: 0 0 0;
+      font-family: Georgia, serif;
+}
     .content{
       width: 80%;
       padding: 0 10% 5%;
     }
-    a{
+.books{
+      width: 80%;
+      padding: 0 10% 5%;
+      line-height: 120%;
+      }    
+a{
       color: #999999;
       text-decoration: none;
       font-weight: 500;
