@@ -107,7 +107,7 @@ a{
     top: 6em;
     width: 100%;
     position: absolute;
-    font-size: 1.1em;
+    font-size: 1em;
 }
 .nav li {
     display:inline;
@@ -115,7 +115,7 @@ a{
 
 .nav li a {
     display: inline-block;
-    color: #999999;
+    color: #ccc;
     text-align: center;
     padding: 2px 12px;
     text-decoration: none;
