@@ -52,7 +52,7 @@ body {
     }
 .books{
       width: 60%;
-      padding: 0 30%;
+      padding: 0 30% 5%;
       padding-bottom: 3em;
       line-height: 120%;
       }    
