@@ -1,5 +1,4 @@
 body {
-      position: relative;
       margin: 0 auto;
       color: #3a3a3a;
       font-family: Georgia, serif;
@@ -50,13 +49,11 @@ body {
     .content{
       width: 80%;
       padding: 0 10% 5%;
-      position: relative;
     }
 .books{
       width: 60%;
       padding: 0 30% 5%;
       line-height: 120%;
-      position: relative;
       }    
 a{
       color: #999999;
