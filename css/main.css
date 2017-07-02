@@ -48,7 +48,25 @@ body {
       margin: 0 0 0;
       font-family: Georgia, serif;
 }
-    .content{
+h6{
+  padding: 1em 3em 0em 0em;
+  margin: 1.5em;
+  background-color: white;
+  text-align: center;
+  position: relative;
+}
+h6 li {
+  display:inline;
+}
+
+h6 li a {
+    display: inline-block;
+    color: #999999;
+    text-align: center;
+    padding: 1em 1em 5em 1em;
+    text-decoration: none;
+}  
+  .content{
       width: 80%;
       padding: 0 10% 5%;
       position: relative;
@@ -171,4 +189,3 @@ a{
     padding: 1em 1em 5em 1em;
     text-decoration: none;
 }
-
