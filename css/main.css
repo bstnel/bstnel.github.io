@@ -50,7 +50,6 @@ body {
 }
 h6{
   padding: 1em 3em 0em 0em;
-  margin: 1.5em;
   background-color: white;
   text-align: center;
   position: relative;
@@ -63,7 +62,7 @@ h6 li a {
     display: inline-block;
     color: #999999;
     text-align: center;
-    padding: 1em 1em 5em 1em;
+    padding: 0em 1em 0em 1em;
     text-decoration: none;
 }  
   .content{
@@ -186,6 +185,6 @@ a{
     display: inline-block;
     color: #999999;
     text-align: center;
-    padding: 1em 1em 5em 1em;
+    padding: 1em 1em 1em 1em;
     text-decoration: none;
 }
