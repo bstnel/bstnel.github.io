@@ -68,12 +68,12 @@ h6 li a {
 }  
   .content{
       width: 80%;
-      padding: 0 10% 0 0;
+      padding: 0 10% 0;
       position: relative;
     }
 .books{
       width: 60%;
-      padding: 0 30% 0 0;
+      padding: 0 30% 0;
       line-height: 120%;
       }    
 a{
