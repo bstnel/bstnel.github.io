@@ -1,5 +1,5 @@
 body {
-      margin: 0 auto;
+      margin: 0;
       color: #3a3a3a;
       font-family: Georgia, serif;
       font-size: 1em;
@@ -33,19 +33,18 @@ body {
       margin: 2em 0 0;
       font-family: Georgia, serif;
       font-style: italic;
-   ;
     }
     h4{
       font-size: 1em;
       font-weight: 400;
-      margin: 0 0 0;
+      margin: 0 0 0 0;
       font-family: Georgia, serif;
       color: #999999;
     }
     h5{
       font-size: 1em;
       font-weight: 400;
-      margin: 0 0 0;
+      margin: 0 0 0 0;
       font-family: Georgia, serif;
 }
 h6{
@@ -69,7 +68,7 @@ h6 li a {
 }  
   .content{
       width: 80%;
-      padding: 0 10% 0 0;
+      padding: 0 10% 0 10%;
       position: relative;
     }
 .books{
