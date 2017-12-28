@@ -11,7 +11,7 @@ body {
       width: 100%;
       position: relative;
     }
-    h1, h2, h3, h4, h5 {
+    h1, h2, h3, h4, h5, h7 {
       font-family: Tahoma, Geneva, sans-serif;
     }
     h1{
@@ -47,6 +47,13 @@ body {
       font-weight: 400;
       margin: 0 0 0 0;
       font-family: Georgia, serif;
+}
+    h7{
+      font-size: 1em;
+      font-weight: 400;
+      margin: 1em 1em 0 0;
+      font-family: Georgia, serif;
+      font-style: italic;
 }
 h6{
   padding: 1em 5em 0em 0em;
