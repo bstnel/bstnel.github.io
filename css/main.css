@@ -99,6 +99,22 @@ a{
     a:hover i{
       color: #3a3a3a;
     }
+a2{
+      color: #3a3a3a;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    a2:hover{
+      color: #999999;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    a2 i{
+      color: #3a3a3a;
+    }
+    a2:hover i{
+      color: #999999;
+    }
     .centerdiv{
       margin: 0 auto;
       width: 100%;
