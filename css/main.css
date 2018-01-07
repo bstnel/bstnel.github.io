@@ -83,6 +83,7 @@ h6 li a {
       width: 60%;
       padding: 0 30% 0;
       line-height: 120%;
+      overflow-x: hidden;
       }    
 a{
       color: #999999;
@@ -172,6 +173,7 @@ a.two{
     margin: 0;
     padding: 0;
     overflow: hidden;
+    overflow-x: hidden;
     text-align: left;
     top: 11.58em;
     width: 10%;
