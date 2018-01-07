@@ -172,13 +172,12 @@ a.two{
 .nav2{
     list-style-type: none;
     margin: 0;
-    padding: 0;
     overflow: hidden;
     overflow-x: hidden;
     text-align: left;
     top: 11.58em;
     width: 10%;
-    padding: 0 9.3% 5%;
+    padding: 0 0 0 9.3%;
     position: absolute;
     font-size: 1em;
 }
